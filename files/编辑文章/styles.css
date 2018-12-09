@@ -504,7 +504,7 @@
   top:0px;
   width:88px;
   height:49px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -541,7 +541,7 @@
   top:0px;
   width:88px;
   height:49px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -578,7 +578,7 @@
   top:0px;
   width:88px;
   height:49px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -978,7 +978,7 @@
   top:17px;
   width:49px;
   height:16px;
-  font-family:'微软雅黑';
+  font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1634,13 +1634,17 @@
   top:951px;
   width:755px;
   height:36px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
   text-align:left;
 }
 #u619_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
+  top:7px;
   width:751px;
   word-wrap:break-word;
 }
@@ -2057,6 +2061,9 @@
   top:572px;
   width:357px;
   height:45px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
   text-align:left;
 }
@@ -2183,6 +2190,9 @@
   top:738px;
   width:357px;
   height:45px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
   text-align:left;
 }
@@ -2367,6 +2377,9 @@
   top:806px;
   width:755px;
   height:23px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
   font-size:18px;
   text-align:left;
 }
